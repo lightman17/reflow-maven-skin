@@ -1466,7 +1466,7 @@
 
 
 #*	*##if ( $decoration.body.head )##
-#*	*#$render.eval( $decoration.body.head )
+		$render.eval( $decoration.body.head )
 #*	*##end#*
 
 	*##if( $headContent )#*
