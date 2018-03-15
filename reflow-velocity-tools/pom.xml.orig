@@ -5,7 +5,12 @@
   <parent>
     <groupId>lt.velykis.maven.skins</groupId>
     <artifactId>reflow-parent</artifactId>
+<<<<<<< HEAD
+    <version>1.1.2-SNAPSHOT</version>
+=======
     <version>1.2-SNAPSHOT</version>
+    <relativePath>../pom.xml</relativePath>
+>>>>>>> fork4/maven-site-plugin-3.6
   </parent>
 
   <artifactId>reflow-velocity-tools</artifactId>
